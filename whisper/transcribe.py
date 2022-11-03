@@ -164,7 +164,7 @@ def transcribe(
                 "no_speech_prob": result.no_speech_prob,
             }
         )
-        print(f"[{format_timestamp(start)} --> {format_timestamp(end)}] {text}")
+        #print(f"[{format_timestamp(start)} --> {format_timestamp(end)}] {text}")
         if verbose:
             print(f"[{format_timestamp(start)} --> {format_timestamp(end)}] {text}")
 
