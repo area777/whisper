@@ -1,4 +1,4 @@
-# Whisper dfd
+# Whisper 
 
 [[Blog]](https://openai.com/blog/whisper)
 [[Paper]](https://cdn.openai.com/papers/whisper.pdf)
